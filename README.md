@@ -1,0 +1,2 @@
+# NLP-Based-Gate-Exam-Preparation-And-Proctored-Examination-Portal
+This project appears to be a web-based "NLP based GATE Exam Portal" built with Django. Here's a breakdown of its key features and technologies, which could be useful for an interview:Core Functionality: Online GATE Examination Platform• User Management &amp; Authentication:o Candidates can register with details including username, password, name.
